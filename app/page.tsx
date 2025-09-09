@@ -127,7 +127,7 @@ export default function ArunodayaWebsite() {
 
       <section
         id="home"
-        className="relative min-h-screen flex items-center justify-center overflow-hidden bg-slate-900"
+        className="relative min-h-screen flex items-center justify-center overflow-hidden bg-slate-900 "
       >
         <div
           className="absolute inset-0 bg-cover bg-center bg-no-repeat parallax-bg bg-slate-900"
@@ -147,7 +147,7 @@ export default function ArunodayaWebsite() {
             >
               Cultivating Sustainable
               <span
-                className="text-green-400 block animate-shimmer"
+                className="text-green-400 block animate-"
                 style={{ textShadow: "3px 3px 6px rgba(0,0,0,0.9), 1px 1px 3px rgba(0,0,0,0.8)" }}
               >
                 Agricultural Excellence
@@ -377,7 +377,7 @@ export default function ArunodayaWebsite() {
                 title: "Forest Management",
               },
               {
-                src: "https://images.unsplash.com/photo-1416879595884-fa280b87c399?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                src: "https://media.istockphoto.com/id/543212762/photo/tractor-cultivating-field-at-spring.jpg?s=612x612&w=0&k=20&c=uJDy7MECNZeHDKfUrLNeQuT7A1IqQe89lmLREhjIJYU=",
                 alt: "Agricultural field",
                 title: "Agricultural Fields",
               },
